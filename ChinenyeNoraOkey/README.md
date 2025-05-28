@@ -1,5 +1,6 @@
-👋 Hi, I'm Chinenye Nora Okey   
-🎓 Currently learning SQL, Excel, Power BI   
-💻 Documenting my projects and progress in data analysis   
-🔭 I'm currently enrolled in Pluralcode Academy   
-📫 How to reach me: queennoraokey@gmail.com
+Hi, I’m @ChinenyeNoraOkey
+💼 Data Analyst | Administrative Virtual Assistant | Customer Support Assistant
+📊 Proficient in SQL • Excel • Power BI • DAX • Python • Data Entry
+🛠 Skilled in Task Management • Communication • Research • Organization
+🌍 Open to remote work and collaboration opportunities
+📫 Reach me at: Queennoraokey@gmail.com
